@@ -1,5 +1,6 @@
 # Repositório com README.
-<span style="color: red;">ESTA PÁGINA É APENAS UM TESTE</span>
+
+`ESTA PÁGINA É APENAS UM TESTE`
 
 Repositório teste com Readme.
 
